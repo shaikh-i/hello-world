@@ -1,8 +1,9 @@
+%% Filenames changed to maintain user privacy 
 %% pre function commands
 close all;
 clc;
 clear;
-load("C:\Users\the_i\Desktop\NCBL\Data.mat");
+load("C:\Users\Username\Desktop\NCBL\Data.mat");
 fid = fopen("test2.txt",'w+');
 %% function commands
 imgn = 40;
