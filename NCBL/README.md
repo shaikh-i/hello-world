@@ -4,10 +4,12 @@ Builds for an Arduino based remote health monitoring system in this directory, i
 Developed for Neuromuscular Control and Biomechanics Labortatory (NCBL), University of Alberta, Edmonton, AB.  
 
 Base design
-![Base design](https://user-images.githubusercontent.com/47722928/127227931-13f5d389-3cac-4aa3-b7eb-a8875025f350.png)
+![picture 1](https://user-images.githubusercontent.com/47722928/127228395-b02337cd-0186-4676-beb5-788e4f025249.png)
+
 
 Design w/ quick recharge
-![Design w/ quick recharge](https://user-images.githubusercontent.com/47722928/127227928-a41ef067-25a1-4e16-8d3d-6a198029d767.png)
+![picture 2](https://user-images.githubusercontent.com/47722928/127228407-1a7db85a-8687-4fb6-b78d-11836477682a.png)
+
 
 Circuit schematic
 ![Circuit schematic](https://user-images.githubusercontent.com/47722928/127227932-acaf055c-5dc1-4abc-bdbc-b780ca42f85a.png)
