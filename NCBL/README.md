@@ -3,4 +3,4 @@ Builds for an Arduino based remote health monitoring system in this directory, i
 2. CAD files for enclosure design and electrical schematics
 Developed for Neuromuscular Control and Biomechanics Labortatory (NCBL), University of Alberta, Edmonton, AB.  
 
-Images/scheme.png
+![Schematic]./Images/scheme.png
